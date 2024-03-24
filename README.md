@@ -1,5 +1,5 @@
 # Building a Simple Decision Tree Classifier
-Introduction: 
+**Introduction: 
 In the machine learning world, decision trees are powerful tools for classification tasks. In this blog post, we will explore how to build a decision tree classifier using Python. Using a simple example, we classify mushrooms as edible or poisonous based on their physiological properties.
 
 Understanding the Problem: 
